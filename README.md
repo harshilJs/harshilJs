@@ -1,10 +1,9 @@
-### Hola👋, I'm Harshil Jasoliya
+### Hola, I'm Harshil Jasoliya 👋
 
 - 🔭 I’m currently working on React-Native and Flutter.
 - 🌱 I’m currently learning iOS/Swift.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: jasoliya@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👯 I’m open to work on Mobile Application Projects.
+- 💬 Ask me about any Mobile App Development related stuff.
+- 📫 How to reach me: Twitter: @harshilame
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I make memes.
