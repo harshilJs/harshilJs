@@ -1,6 +1,6 @@
 ### Hola, I'm Harshil Jasoliya 👋
 
-- 🔭 I’m currently working on React-Native and Flutter.
+- 🔭 I’m currently working on React-Native, Flutter and Android.
 - 🌱 I’m currently learning iOS/Swift.
 - 👯 I’m open to work on Mobile Application Projects.
 - 💬 Ask me about any Mobile App Development related stuff.
