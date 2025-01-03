@@ -1,6 +1,6 @@
 ### Hola, I'm Harshil Jasoliya 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=harshilJs)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=harshilJs&theme=dracula&hide_border=true&exclude_days=Sun)](https://git.io/streak-stats)
 
 - 🔭  I’m currently working on React-Native and React.
 - 🌱  I’m a Business Analyst.
