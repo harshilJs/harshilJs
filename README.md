@@ -1,7 +1,5 @@
 ### Hola, I'm Harshil Jasoliya 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshilJs)](https://github.com/harshilJs/github-readme-stats)
-
 - 🌱  I’m a Mobile Engineer.
 - 👯  I’m open to work on Mobile & Web Application Projects.
 - 💬  Ask me about any Mobile & Web App Development related stuff.
